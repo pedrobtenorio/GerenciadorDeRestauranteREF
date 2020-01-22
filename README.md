@@ -10,7 +10,7 @@ Cozinheiro.java linha 22 public void addCozinheiro
 Esses metodos eram usados para adicionar os funcionarios, eram extremamente parecidos.
 
 
-2 - As classes Mesas.java e Cozinha.java sao muito grandes e e estao fazendo o trabalho de outras classes (large class)
+2 - As classes Mesas.java e Cozinha.java sao muito grandes e e estao fazendo o trabalho de outras classes (large class e Divergent change)
 
 3 - as classes  cozinheiro.java e Garcom.java estao fazendo muito pouco (lazy class)
 
